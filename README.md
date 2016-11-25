@@ -5,4 +5,4 @@
 Renderings made in V-Ray.
 
 # Post Processing
-Post processing was done using Adobe Photoshop.
+Post processing done using Adobe Photoshop.
